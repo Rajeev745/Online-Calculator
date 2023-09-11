@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlineSalesMathProject</string>
+    <string name="enter_mathematical_expressions_one_per_line">Enter mathematical expressions, one per line</string>
+    <string name="submit">Submit</string>
+    <string name="enter_the_mathmatical_expression_but_only_one_per_line">Enter the Mathmatical Expression but only one per Line</string>
+    <string name="history">history</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="histories">HISTORY</string>
+</resources>
